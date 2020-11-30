@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">イベントとリスナサンプル</string>
+    <string name="TV_name">お名前を入力してください</string>
+    <string name="button_click">表示</string>
+    <string name="button_clear">クリア</string>
+</resources>
