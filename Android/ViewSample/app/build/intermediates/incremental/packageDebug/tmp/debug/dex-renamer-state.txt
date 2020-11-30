@@ -1,0 +1,4 @@
+#Wed Dec 02 16:47:22 JST 2020
+base.0=/Users/mayo/Desktop/plus/Android/ViewSample/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
